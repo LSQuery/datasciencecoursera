@@ -1,2 +1,2 @@
 # datasciencecoursera
-scripts etc for Data Science Course(s) on Coursera
+scripts etc for Data Science Course(s) on Coursera.
